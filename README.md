@@ -6,4 +6,10 @@ I haven't used subprocesses, sys module which can be more efficient in featuring
 Only used content which was taught till the date
 This can be made more effective using search patterns regex modules (its known to me but not used as its not covered yet)
 
+HoW to RuN ?
+
+cmd >> python <filename>
+
+Further follow steps as listed by script
+
 NOTE : Some of the utilities have been unsupported while running on various platform based on its availability and compatibility.
