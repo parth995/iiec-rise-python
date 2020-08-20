@@ -8,8 +8,10 @@ This can be made more effective using search patterns regex modules (its known t
 
 HoW to RuN ?
 
-cmd >> python <filename>
+cmd >> python filename.py
 
 Further follow steps as listed by script
 
 NOTE : Some of the utilities have been unsupported while running on various platform based on its availability and compatibility.
+
+Ref: https://docs.python.org/2/library/os.html#
